@@ -1,0 +1,12 @@
+C:\Users\nate2463\Desktop\nwd-rel-zwln\installer\Installer\Installer\bin\Release\Installer.exe.config
+C:\Users\nate2463\Desktop\nwd-rel-zwln\installer\Installer\Installer\bin\Release\Installer.exe
+C:\Users\nate2463\Desktop\nwd-rel-zwln\installer\Installer\Installer\bin\Release\Installer.pdb
+C:\Users\nate2463\Desktop\nwd-rel-zwln\installer\Installer\Installer\obj\Release\Installer.csprojAssemblyReference.cache
+C:\Users\nate2463\Desktop\nwd-rel-zwln\installer\Installer\Installer\obj\Release\Installer.Form1.resources
+C:\Users\nate2463\Desktop\nwd-rel-zwln\installer\Installer\Installer\obj\Release\Installer.Form2.resources
+C:\Users\nate2463\Desktop\nwd-rel-zwln\installer\Installer\Installer\obj\Release\Installer.Form3.resources
+C:\Users\nate2463\Desktop\nwd-rel-zwln\installer\Installer\Installer\obj\Release\Installer.Properties.Resources.resources
+C:\Users\nate2463\Desktop\nwd-rel-zwln\installer\Installer\Installer\obj\Release\Installer.csproj.GenerateResource.cache
+C:\Users\nate2463\Desktop\nwd-rel-zwln\installer\Installer\Installer\obj\Release\Installer.csproj.CoreCompileInputs.cache
+C:\Users\nate2463\Desktop\nwd-rel-zwln\installer\Installer\Installer\obj\Release\Installer.exe
+C:\Users\nate2463\Desktop\nwd-rel-zwln\installer\Installer\Installer\obj\Release\Installer.pdb

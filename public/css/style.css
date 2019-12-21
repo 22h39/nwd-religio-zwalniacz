@@ -1,0 +1,69 @@
+.corebox{
+	background-color: #333333;
+	color: #FFFFFF;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+.redish{
+	color: #6A6AFF;
+}
+
+.up-top{
+	padding-bottom: 3%;
+}
+
+.invalid-text{
+	padding-top: 3px;
+}
+
+.denombox{
+	width: 10% !important;
+}
+
+.denom{
+	width: 150px !important;
+}
+
+.big-text{
+	width: 350px !important;	
+}
+
+.amount_usd{
+	width: 100px !important;
+}
+
+.colorful_button{
+	background-color: #158CBA;
+	animation-name: parku;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	animation-timing-function: ease-in;
+}
+
+@keyframes parku{
+	0% {background-color: #158CBA; border-color: #127ba3;}
+	50% {background-color: #ee82ee; border-color: #eb61d7;}
+	75% {background-color: #82ee82; border-color: #79dd69;}
+	100% {background-color: #158CBA; border-color: #127ba3;}
+}
+
+@keyframes darku{
+	0% {background-color: #333333;}
+	50% {background-color: #013220;}
+	100% {background-color: #333333;}
+}
+
+html {
+    height: 100%;
+}
+
+html, body, #fullheight {
+    min-height: 100% !important;
+    height: 100%;
+	margin: 0px;
+}
