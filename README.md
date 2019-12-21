@@ -41,7 +41,7 @@ Wpisz następujące informacje aby program mógł wysyłać wiadomości za pomoc
 Dzień wysyłania to dzień tygodnia w którym wiadomość będzie wysyłana, godzina to godzina o której wiadomość będzie wysyłana.
 Komputer/maszyna na której program działa musi być włączona o tej godzinie w tym dniu aby wysłanie wiadomości było możliwe
 Godzina zakończenia i godzina rozpoczęcia to testy użyte do wiadomości możesz tam wpisać cokolwiek i poźniej to zmienić
-Dzień religji to dzień w którym masz religie dzień ten będzie używany do obliczenia następnej religji aby wstawić datę w wiadomość
+Dzień religii to dzień w którym masz religie dzień ten będzie używany do obliczenia następnej religii aby wstawić datę w wiadomość
 
 ![Wych](/images/wych.png)
 
