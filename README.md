@@ -66,9 +66,13 @@ Wpisując http://localhost:8081/najlepszy_nauczyciel otrzymamy dość ciekawą s
 
 ## Program stworzony przy pomocy
 [librus-api-relibrused](http://github.com/22h39/librus-api-relibrused)
+
 [express](https://expressjs.com/)
+
 [handlebars](https://handlebarsjs.com/)
+
 [node.js](https://nodejs.org)
+
 
 ## Licencja
 MIT License
