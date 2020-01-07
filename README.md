@@ -39,26 +39,33 @@ Wpisz następujące informacje aby program mógł wysyłać wiadomości za pomoc
 ![Dashboard](/images/dashboard.png)
 
 Dzień wysyłania to dzień tygodnia w którym wiadomość będzie wysyłana, godzina to godzina o której wiadomość będzie wysyłana.
-Komputer/maszyna na której program działa musi być włączona o tej godzinie w tym dniu aby wysłanie wiadomości było możliwe
-Godzina zakończenia i godzina rozpoczęcia to testy użyte do wiadomości możesz tam wpisać cokolwiek i poźniej to zmienić
-Dzień religii to dzień w którym masz religie dzień ten będzie używany do obliczenia następnej religii aby wstawić datę w wiadomość
+
+Komputer/maszyna na której program działa musi być włączona o tej godzinie w tym dniu aby wysłanie wiadomości było możliwe.
+
+Godzina zakończenia i godzina rozpoczęcia to testy użyte do wiadomości możesz tam wpisać cokolwiek i poźniej to zmienić.
+
+Dzień religii to dzień w którym masz religie dzień ten będzie używany do obliczenia następnej religii aby wstawić datę w wiadomość.
 
 ![Wych](/images/wych.png)
 
-Wybieramy wychowawcę oraz nauczyciela od zajęć opiekuńczych (jeżeli mamy zajęcia opiekuńcze z wychowacą wybieramy te same osoby a wiadmość zostanie wysłana tylko raz) do których wiadomość ma być wysłana
-Aby sprawdzić poprawność działania logowania do librusa będą na tej stronie wyświetlone oceny z twojego pierwszego przedmiotu w dzienniku upewnij się że są one poprawne
-Wiadomość możesz edytować do woli na tej stronie ta wiadomość którą zatwierdzisz będzie wysyłana
-Słowo ```[data]``` zostanie zastąpione datą następnej relgiji według kalendarza przy wysyłaniu
-Zostawiając pole Wiadomość puste, program nie będzie wysyłał żadnych wiadomości
+Wybieramy wychowawcę oraz nauczyciela od zajęć opiekuńczych (jeżeli mamy zajęcia opiekuńcze z wychowacą wybieramy te same osoby a wiadmość zostanie wysłana tylko raz) do których wiadomość ma być wysłana.
+
+Aby sprawdzić poprawność działania logowania do librusa będą na tej stronie wyświetlone oceny z twojego pierwszego przedmiotu w dzienniku upewnij się że są one poprawne.
+
+Wiadomość możesz edytować do woli na tej stronie ta wiadomość którą zatwierdzisz będzie wysyłana.
+
+Słowo ```[data]``` zostanie zastąpione datą następnej relgiji według kalendarza przy wysyłaniu.
+
+Zostawiając pole Wiadomość puste, program nie będzie wysyłał żadnych wiadomości.
 
 ![Status](/images/status.png)
 
 Podsumowanie
 
 
-Wiadmości będą oczywiście wysyłane z konta które zostało wpisane na początku konfiguracji czyli, jeżeli jest to konto z u na końcu z konta ucznia, inaczej z konta rodzica
+Wiadmości będą oczywiście wysyłane z konta które zostało wpisane na początku konfiguracji czyli, jeżeli jest to konto z u na końcu z konta ucznia, inaczej z konta rodzica.
 
-**Autor nie odpowiada za jakiekolwiek szkody wynikające z użycia programu, program jest dystrybułowany bez jakiejkolwiek gwarancji działania na danej maszynie**
+**Autor nie odpowiada za jakiekolwiek szkody wynikające z użycia programu, program jest dystrybuowany bez jakiejkolwiek gwarancji działania na danej maszynie**
 
 ## Prof Halina Tyliba
 
