@@ -54,7 +54,7 @@ Aby sprawdzić poprawność działania logowania do librusa będą na tej stroni
 
 Wiadomość możesz edytować do woli na tej stronie ta wiadomość którą zatwierdzisz będzie wysyłana.
 
-Słowo ```[data]``` zostanie zastąpione datą następnej relgiji według kalendarza przy wysyłaniu.
+Słowo ```[data]``` zostanie zastąpione datą następnej relgii według kalendarza przy wysyłaniu.
 
 Zostawiając pole Wiadomość puste, program nie będzie wysyłał żadnych wiadomości.
 
