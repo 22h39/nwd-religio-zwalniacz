@@ -67,10 +67,6 @@ Wiadmości będą oczywiście wysyłane z konta które zostało wpisane na pocz�
 
 **Autor nie odpowiada za jakiekolwiek szkody wynikające z użycia programu, program jest dystrybuowany bez jakiejkolwiek gwarancji działania na danej maszynie**
 
-## Prof Halina Tyliba
-
-Wpisując http://localhost:8081/najlepszy_nauczyciel otrzymamy dość ciekawą stronę
-
 ## Program stworzony przy pomocy
 [librus-api-relibrused](http://github.com/22h39/librus-api-relibrused)
 
@@ -83,8 +79,6 @@ Wpisując http://localhost:8081/najlepszy_nauczyciel otrzymamy dość ciekawą s
 
 ## Licencja
 MIT License
-
-Copyright (c) 2019 Mikołaj Gazeel, Mateusz Bagiński (przed forkowy kod librus-api)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
